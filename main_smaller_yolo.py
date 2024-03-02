@@ -1,5 +1,6 @@
 
 r"""Run TF Lite model."""
+"hello!!!!!!!!!!!!"
 #本地依赖包 inference tf2 data_loader HandTrackingModule video_player vlc
 import inference
 
