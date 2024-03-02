@@ -1,0 +1,12 @@
+pip install absl-py
+pip install tensorflow
+pip install pillow
+pip install pyyaml
+pip install matplotlib
+pip install  torch
+pip install torchvision
+pip install librosa
+pip install opencv-python
+pip install mediapipe
+
+https://zhuanlan.zhihu.com/p/69906080
